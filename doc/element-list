@@ -1,0 +1,6 @@
+com.springboot.sim_activation
+com.springboot.sim_activation.controller
+com.springboot.sim_activation.cusomerRepository
+com.springboot.sim_activation.entites
+com.springboot.sim_activation.exception
+com.springboot.sim_activation.service
